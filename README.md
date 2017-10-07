@@ -1,2 +1,2 @@
 # passwordGame
-Jogo embarcado em uC Atmega238 (Arduino)
+Jogo embarcado em uC Atmega328 (Arduino)
